@@ -1,0 +1,40 @@
+{
+  "name": "ts-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/moment": "^2.13.0",
+    "@types/react-big-calendar": "^0.17.0",
+    "@types/react-datepicker": "^1.0.0",
+    "@types/react-dnd": "^2.0.34",
+    "@types/react-dnd-html5-backend": "^2.1.8",
+    "@types/react-redux": "^5.0.14",
+    "@types/react-router-dom": "^4.2.3",
+    "axios": "^0.17.1",
+    "moment": "^2.20.1",
+    "react": "^16.2.0",
+    "react-big-calendar": "^0.17.0",
+    "react-datepicker": "^1.1.0",
+    "react-dnd": "^2.5.4",
+    "react-dnd-html5-backend": "^2.5.4",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts-ts": "2.13.0",
+    "redux-promise-middleware": "^5.0.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.1.0",
+    "@types/node": "^9.4.0",
+    "@types/react": "^16.0.35",
+    "@types/react-dom": "^16.0.3",
+    "typescript": "^2.6.2"
+  }
+}
